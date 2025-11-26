@@ -1,0 +1,30 @@
+--- SECURITY ---
+
+This ignores your secrets file so it never goes to GitHub
+
+.env
+
+--- SYSTEM FILES ---
+
+These are junk files created by Mac/Windows
+
+.DS_Store
+Thumbs.db
+
+--- PYTHON FILES ---
+
+These are heavy folder or compiled files we don't need to upload
+
+pycache/
+*.pyc
+venv/
+env/
+
+--- LOCAL DATABASE ---
+
+This is the 'memory' file your app creates.
+
+We ignore it so the cloud server builds a fresh one.
+
+*.pkl
+faiss_store_openai.pkl
