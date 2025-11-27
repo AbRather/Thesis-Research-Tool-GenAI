@@ -1,5 +1,5 @@
 # My GenAI Project
-News Research Tool 📈
+# News Research Tool 📈
 
 Hi there! This is a simple Python application that lets you "chat" with news articles.
 
