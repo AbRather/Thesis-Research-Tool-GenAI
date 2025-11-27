@@ -1,5 +1,5 @@
 # My GenAI Project
-# Thesis Research Tool 📈
+# Thesis Research Tool
 
 Hi there! This is a simple Python application that lets you "chat" with research pages.
 
